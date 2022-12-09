@@ -4,6 +4,20 @@
 body {
     font-family: 'Poppins', sans-serif;
     background-color: #F3F1FF;
+    padding: 0%;
+}
+
+/* headerr menuu */
+.head {
+
+    height: 94px;
+    background: #562EFF;
+}
+
+.head-menu {
+    display: flex;
+    align-items: center;
+
 }
 
 main {
